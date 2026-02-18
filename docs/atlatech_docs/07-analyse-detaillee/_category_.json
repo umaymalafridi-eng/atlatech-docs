@@ -1,0 +1,8 @@
+﻿{
+  "label": "Analyse Détaillée par Domaine",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "Analyse approfondie des vulnérabilités par domaine technique (État Before uniquement - avant sécurisation)"
+  }
+}

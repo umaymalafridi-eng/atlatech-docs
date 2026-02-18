@@ -1,0 +1,8 @@
+{
+  "label": "Durcissement Systèmes",
+  "position": 18,
+  "link": {
+    "type": "generated-index",
+    "description": "Hardening des serveurs web, PHP et systèmes d'exploitation pour AtlasTech Solutions"
+  }
+}
